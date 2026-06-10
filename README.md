@@ -9,7 +9,7 @@
 GitHub Repository
 
 ```bash
-(https://github.com/IkjyotKaur/Code-Plagiarism-Detection-Tool.git)
+git clone https://github.com/IkjyotKaur/Code-Plagiarism-Detection-Tool.git
 ```
 
 A full-stack web application that detects plagiarism in source code files using lexical analysis, token similarity, AST comparison, compiler feature extraction, and advanced similarity metrics. The system generates detailed reports and plagiarism scores for academic and educational use.
